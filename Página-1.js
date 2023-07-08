@@ -71,7 +71,6 @@ try {
                         } else {
 
                           document.querySelector("div[class='container-loader']").style.display = "none";
-                          localStorage.setItem("s", "ola");
                           window.location.href = "https://cadastro-notificacao.netlify.app/";
 
                         }

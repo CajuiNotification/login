@@ -18,7 +18,7 @@ try {
 
                   } else {
 
-                    window.location.href = "http://127.0.0.1:5500/cadastro/Cadastro_Notificacao.html";
+                    window.location.href = "https://cadastro-notificacao.netlify.app/";
                   }
 
                 });
@@ -71,7 +71,7 @@ try {
                         } else {
 
                           document.querySelector("div[class='container-loader']").style.display = "none";
-                          window.location.href = "http://127.0.0.1:5500/cadastro/Cadastro_Notificacao.html";
+                          window.location.href = "https://cadastro-notificacao.netlify.app/";
 
                         }
 

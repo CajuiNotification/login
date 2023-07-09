@@ -71,7 +71,7 @@ try {
                         } else {
 
                           document.querySelector("div[class='container-loader']").style.display = "none";
-                          window.location.href = "https://cadastro-notificacao.netlify.app/";
+                          window.location.href = "https://cajuinotification.github.io/CadastroNotificacao/";
 
                         }
 
